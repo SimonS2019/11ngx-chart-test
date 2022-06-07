@@ -46,9 +46,11 @@ export class LineChartComponent implements OnInit {
   data4:any;
   data5:any;
 
+
+
   referenceLinesData: any = [{
     name: "max",
-    value: 10000000,
+    value: 9500000,
   },
   {
     name: "average",

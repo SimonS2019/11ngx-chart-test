@@ -241,6 +241,23 @@ data4 = [
       },
     ]
   },
+  {
+    "name": "Germany",
+    "series": [
+      {
+        "name": new Date("2005-01-01"),
+        "value": 7300000
+      },
+      {
+        "name": new Date("2006-01-01"),
+        "value": 8940000
+      },
+      {
+        "name": new Date("2007-01-01"),
+        "value": 9940000
+      }
+    ]
+  },
 
   {
     "name": "USA",
@@ -264,27 +281,27 @@ data4 = [
     ]
   },
 
-  {
-    "name": "France",
-    "series": [
-      {
-        "name": new Date("2010-01-01"),
-        "value": 5000002
-      },
-      {
-        "name": new Date("2011-01-01"),
-        "value": 5800000
-      },
-      {
-        "name": new Date("2012-01-01"),
-        "value": 6940000
-      },
-      {
-        "name": new Date("2013-01-01"),
-        "value": 7940000
-      },
-    ]
-  }
+  // {
+  //   "name": "France",
+  //   "series": [
+  //     {
+  //       "name": new Date("2010-01-01"),
+  //       "value": 5000002
+  //     },
+  //     {
+  //       "name": new Date("2011-01-01"),
+  //       "value": 5800000
+  //     },
+  //     {
+  //       "name": new Date("2012-01-01"),
+  //       "value": 6940000
+  //     },
+  //     {
+  //       "name": new Date("2013-01-01"),
+  //       "value": 7940000
+  //     },
+  //   ]
+  // }
 ];
 
 data5=[
