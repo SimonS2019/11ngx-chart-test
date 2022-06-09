@@ -7,12 +7,14 @@ import { AppComponent } from './app.component';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import { LineChartComponent } from './line-chart/line-chart.component';
 import { BarChartComponent } from './bar-chart/bar-chart.component';
+import { AreaChartComponent } from './area-chart/area-chart.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     LineChartComponent,
-    BarChartComponent
+    BarChartComponent,
+    AreaChartComponent
   ],
   imports: [
     BrowserModule,
